@@ -1,0 +1,17 @@
+{
+  "name": "backendframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "somchai",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/http": "^7.2.14",
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3"
+  }
+}
