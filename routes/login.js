@@ -70,7 +70,7 @@ router.post("/register", (req, res) => {
                     });
                 }
                 res.send({
-                  //  status: "store success",
+                    status: "store success",
                     name: nameVar //response
                 });
             });
